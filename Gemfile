@@ -33,6 +33,7 @@ group :test do
   gem 'database_cleaner'
   gem 'faker'
   gem 'launchy'
+  gem 'poltergeist'
   gem 'shoulda-matchers'
 end
 
