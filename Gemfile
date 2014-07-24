@@ -20,6 +20,8 @@ gem 'spring', group: :development
 
 gem 'devise'
 gem 'validate_url'
+gem 'active_model_serializers'
+gem 'handlebars_assets'
 
 group :development, :test do
   gem 'factory_girl_rails'
